@@ -2,7 +2,7 @@ You are given a function f(X) = X² . You are also given K lists. The i^th list 
 
 You have to pick one element from each list so that the value from the equation below is maximized:
 
-S = (f(X1) + f(X2) + f(X3) ... f(XK))%M
+S = (f(X_1) + f(X_2) + f(X_3) ... f(X_K))%M
 
 X_i denotes the element picked from the i^th list . Find the maximized value Smax obtained.
 
